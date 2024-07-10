@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Front End Developer</p>
+<p align="left">Fullstack Web Developer</p>
 
 ###
 
-<h5 align="left">"I am an active and dedicated front-end developer eager to take on challenging roles in highly technical environments. My goal is to contribute my expertise in Front-End Web Development to provide top-notch services to a forward-thinking company. I excel at translating customer vision into a functional and engaging web experience, effectively captivating and enhancing the user journey. My dedication and skill set position me to make a meaningful impact on projects and drive business success.".</h5>
+<h5 align="left">"I am a proactive and dedicated full stack web developer ready to tackle challenging roles in dynamic technical environments. My goal is to leverage my expertise in both front-end and back-end development to deliver exceptional solutions for innovative companies. I excel at transforming client requirements into robust web applications, ensuring seamless user experiences and optimized performance across platforms. With a strong commitment to quality and efficiency, I am poised to contribute effectively to project success and drive business growth.".</h5>
 
 ###
 
